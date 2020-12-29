@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head th:fragment="header(titleName)">
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title th:text="${titleName}"></title>
+    <meta content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no" name="viewport">
+
+
+    <link rel="stylesheet" th:href="@{/plugins/bootstrap/css/bootstrap.min.css}">
+    <link rel="stylesheet" th:href="@{/plugins/adminLTE/css/AdminLTE.css}">
+    <link rel="stylesheet" th:href="@{/plugins/adminLTE/css/skins/_all-skins.min.css}">
+    <link rel="stylesheet" th:href="@{/css/style.css}">
+    <link rel="stylesheet" th:href="@{/plugins/kindeditor/themes/default/default.css}" />
+
+    <script th:src="@{/plugins/jQuery/jquery-2.2.3.min.js}"></script>
+    <script th:src="@{/plugins/bootstrap/js/bootstrap.min.js}"></script>
+
+    <!--框架中的插件-->
+    <script th:src="@{/plugins/adminLTE/js/app.min.js}"></script>
+    <!--vue-->
+    <script th:src="@{/plugins/vue/vue.js}"></script>
+    <script th:src="@{/plugins/vue/vuejs-paginate.js}"></script>
+    <script th:src="@{/plugins/vue/vue-select.js}"></script>
+    <!--ajax 升级  异步请求-->
+    <script th:src="@{/plugins/axios/axios.js}"></script>
+
+</head>
+<body>
+
+</body>
+</html>

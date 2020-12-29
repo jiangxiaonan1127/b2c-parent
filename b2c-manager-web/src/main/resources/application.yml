@@ -1,0 +1,10 @@
+dubbo:
+  application:
+    name: b2c-manager-web
+  registry:
+    address: zookeeper://192.168.56.88:2181
+spring:
+  thymeleaf:
+    cache: false
+server:
+  port: 9001

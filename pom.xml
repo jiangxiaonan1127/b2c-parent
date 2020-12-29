@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.turing</groupId>
+    <artifactId>b2c-parent</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>b2c-model</module>
+        <module>b2c-dao</module>
+        <module>b2c-sellergoods-interface</module>
+        <module>b2c-sellergoods-service</module>
+        <module>b2c-manager-web</module>
+        <module>b2c-seller-web</module>
+        <module>b2c-content-interface</module>
+        <module>b2c-content-service</module>
+        <module>b2c-portal-web</module>
+        <module>b2c-search-interface</module>
+        <module>b2c-search-service</module>
+        <module>b2c-search-web</module>
+    </modules>
+    <name>b2c-parent</name>
+    <packaging>pom</packaging>
+
+</project>

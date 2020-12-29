@@ -1,0 +1,10 @@
+server:
+  port: 9003
+dubbo:
+  application:
+    name: b2c-portal-web
+  registry:
+    address: zookeeper://192.168.56.88:2181
+spring:
+  thymeleaf:
+    cache: false

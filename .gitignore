@@ -1,0 +1,5 @@
+# Project exclude paths
+/b2c-content-interface/target/
+/b2c-model/target/
+/b2c-search-interface/target/
+/b2c-sellergoods-interface/target/

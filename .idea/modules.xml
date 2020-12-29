@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/b2c-content-interface/b2c-content-interface.iml" filepath="$PROJECT_DIR$/b2c-content-interface/b2c-content-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/b2c-content-service/b2c-content-service.iml" filepath="$PROJECT_DIR$/b2c-content-service/b2c-content-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/b2c-dao/b2c-dao.iml" filepath="$PROJECT_DIR$/b2c-dao/b2c-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/b2c-manager-web/b2c-manager-web.iml" filepath="$PROJECT_DIR$/b2c-manager-web/b2c-manager-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/b2c-model/b2c-model.iml" filepath="$PROJECT_DIR$/b2c-model/b2c-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/b2c-parent.iml" filepath="$PROJECT_DIR$/b2c-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/b2c-portal-web/b2c-portal-web.iml" filepath="$PROJECT_DIR$/b2c-portal-web/b2c-portal-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/b2c-search-interface/b2c-search-interface.iml" filepath="$PROJECT_DIR$/b2c-search-interface/b2c-search-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/b2c-search-service/b2c-search-service.iml" filepath="$PROJECT_DIR$/b2c-search-service/b2c-search-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/b2c-search-web/b2c-search-web.iml" filepath="$PROJECT_DIR$/b2c-search-web/b2c-search-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/b2c-seller-web/b2c-seller-web.iml" filepath="$PROJECT_DIR$/b2c-seller-web/b2c-seller-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/b2c-sellergoods-interface/b2c-sellergoods-interface.iml" filepath="$PROJECT_DIR$/b2c-sellergoods-interface/b2c-sellergoods-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/b2c-sellergoods-service/b2c-sellergoods-service.iml" filepath="$PROJECT_DIR$/b2c-sellergoods-service/b2c-sellergoods-service.iml" />
+    </modules>
+  </component>
+</project>

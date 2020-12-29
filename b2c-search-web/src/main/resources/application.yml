@@ -1,0 +1,13 @@
+server:
+  port: 9004
+
+dubbo:
+  application:
+    name: b2c-search-web
+    qos-port: 33333 #端口冲突问题
+  registry:
+    address: zookeeper://192.168.56.88:2181
+
+spring:
+  thymeleaf:
+    cache: false
